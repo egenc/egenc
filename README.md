@@ -2,6 +2,8 @@
 
 # 💫 About Me:
 Data Engineer — Equinor UK
+
+
 Sitting in trading desk as a data engineer, dataOps, and devOps
 
 
