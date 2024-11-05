@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-# 💫 About Me:
 Data Engineer — Equinor UK
 
 
