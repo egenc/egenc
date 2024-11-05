@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭At present, I'm focused on supporting our trading desk by developing comprehensive PowerBI reports, enhancing our codebase, and instituting best practices for efficient data pipelines.<br>👯 I'm eager to collaborate on projects that involve sophisticated data engineering and data science solutions, particularly those enhancing data processing and trading analytics.<br>🌱 I'm diving into deep learning techniques and exploring their application in predictive analytics for trading systems<br>💬 Feel free to ask me about optimizing data workflows, leveraging PowerBI for impactful visualizations, or any trends in data engineering.<br>⚡ Fun fact: I can handle both data science and engineering task in trading desk.<br><br>
+Data Engineer — Equinor UK
+Sitting in trading desk as a data engineer, dataOps, and devOps
+
 
 
 ## 🌐 Socials:
